@@ -1,0 +1,27 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.egg
+*.egg-info
+dist
+build
+*.tar.gz
+
+# Django
+*.log
+*.pot
+db.sqlite3
+media
+
+# Development
+.idea
+*.swp
+*.swo
+*.swn
+*.bak
+*.bak2
+*.bak3
+*.DS_Store
